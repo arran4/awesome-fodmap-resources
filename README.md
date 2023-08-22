@@ -2,7 +2,7 @@
 
 This is just a list at the moment, I will work on the 'awesome' component of it (ie set restrictions and filters) when there are more resources here.
 
-Until then, some basic rules are 
+See [rules.md](Rules) for rules for each category.
 
 ## Communities
 
