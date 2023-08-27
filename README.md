@@ -30,3 +30,11 @@ Will split off into own MD at some stage.
 
 ## Research
 Notable research here, others here: [General Research](research.md)
+
+## Recipes
+
+Sites (but not blogs) to find recipes go here. Individuals (including from blogs) go here: [Recipes](recipes.md)
+
+## Blogs
+
+All blogs found here: [Blogs](blogs.md)
