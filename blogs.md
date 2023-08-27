@@ -1,6 +1,6 @@
 # Blogs
 
 # Only Low Fodmap Content
-* [https://alittlebityummy.com/blog/](The Ultimate Guide to Low FODMAP Sugars & Sweeteners) - [blogs-alittlebityummy-highlights.md](Highlights)
-* [https://www.monashfodmap.com/blog/](Monash FODMAP - FODMAP Blog)
+* [The Ultimate Guide to Low FODMAP Sugars & Sweeteners](https://alittlebityummy.com/blog/) - [Highlights](blogs-alittlebityummy-highlights.md)
+* [Monash FODMAP - FODMAP Blog](https://www.monashfodmap.com/blog/)
 
