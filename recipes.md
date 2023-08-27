@@ -2,6 +2,8 @@
 
 No order as of yet, looking for someone to manage this section.
 
+Please note not all fodmap is similar and some things might not be okay for all people on the low fodmap diet. Please check ingredients.
+
 * [Anzac biscuits](https://www.monashfodmap.com/blog/low-fodmap-anzac-biscuits-recipe/)
 * [Anzac biscuits](https://www.monashfodmap.com/blog/low-fodmap-anzac-day-biscuits/)
 * [Apple cider vinaigrette](https://www.monashfodmap.com/blog/apple-cider-vinaigrette-salad-dressing/)
@@ -15,7 +17,6 @@ No order as of yet, looking for someone to manage this section.
 * [BBQ chicken skewers with lemon sauce](https://www.monashfodmap.com/blog/low-fodmap-bbq-chicken-skewers-with/)
 * [Bircher muesli](https://www.monashfodmap.com/blog/a-new-take-on-bircher-muesli/) 
 * [Bread and butter pudding](https://www.monashfodmap.com/blog/festive-berry-bread-butter-pudding/) 
-* [Broccoli salad with yoghurt dressing](https://www.monashfodmap.com/blog/broccoli-salad-yoghurt-maple-dressing/)
 * [Broccoli salad with yoghurt dressing](https://www.monashfodmap.com/blog/broccoli-salad-yoghurt-maple-dressing/) 
 * [Caccuiccio seafood stew](https://www.monashfodmap.com/blog/caccuiccio-seafood-stew/)
 * [Caprese salad](https://www.monashfodmap.com/blog/salad-mealtime-saviours/)
@@ -23,7 +24,6 @@ No order as of yet, looking for someone to manage this section.
 * [Carrot and cumin dip](https://www.monashfodmap.com/blog/cranberry-sauce/)
 * [Carrot and cumin dip](https://www.monashfodmap.com/blog/low-fodmap-carrot-cumin-dip/)
 * [Carrot and pepita dip](https://www.monashfodmap.com/blog/carrot-and-pepita-dip/)
-* [Carrot cake with walnuts and linseeds](https://www.monashfodmap.com/blog/carrot-walnut-and-linseed-cake-or-cup/)
 * [Carrot cake with walnuts and linseeds](https://www.monashfodmap.com/blog/carrot-walnut-and-linseed-cake-or-cup/) 
 * [Chicken and gnocchi pasta bake](https://www.monashfodmap.com/blog/low-fodmap-chicken-and-gnocchi-pasta/)
 * [Chicken cacciatore](https://www.monashfodmap.com/blog/low-fodmap-chicken-cacciatore/) 
@@ -49,7 +49,6 @@ No order as of yet, looking for someone to manage this section.
 * [Green smoothie](https://www.monashfodmap.com/blog/low-fodmap-green-smoothie/)
 * [Guacamole](https://www.monashfodmap.com/blog/low-fodmap-guacamole/)
 * [Ham, Swiss cheese and spinach toasted sandwiches](https://www.monashfodmap.com/blog/cheese-toastie/)
-* [Herby chicken and pork meatballs with cranberry sauce](https://www.monashfodmap.com/blog/herby-chicken-pork-meatballs/)
 * [Herby chicken and pork meatballs with cranberry sauce](https://www.monashfodmap.com/blog/herby-chicken-pork-meatballs/) 
 * [Hot and sour Asian soup](https://www.monashfodmap.com/blog/low-fodmap-hot-sour-asian-soup-vegan/)
 * [Hot cross buns](https://www.monashfodmap.com/blog/low-fodmap-hot-cross-buns/)
@@ -121,15 +120,13 @@ No order as of yet, looking for someone to manage this section.
 * [Vegan roasted chickpea and vegetable bowl with peanut cream](https://www.monashfodmap.com/blog/vegan-roasted-chickpea-and-vegetable/)
 * [Vegetable and chickpea soup](https://www.monashfodmap.com/blog/low-fodmap-vegetable-and-chickpea-soup/)
 * [Vegetable frittata](https://www.monashfodmap.com/blog/low-fodmap-vegetarian-frittata/)
-* [Vegetable frittata](https://www.monashfodmap.com/blog/low-fodmap-vegetarian-frittata/) 
 * [Vegetable quiches](https://www.monashfodmap.com/blog/vegetables-muffins/)
-* [Vegetable stir fry](https://www.monashfodmap.com/blog/fast-and-healthy-stir-fried-vegetables/)
 * [Vegetable stir fry](https://www.monashfodmap.com/blog/fast-and-healthy-stir-fried-vegetables/) 
 * [Veggie burger](https://www.monashfodmap.com/blog/low-fodmap-veggie-burger-recipe/)
-* [Veggie burger](https://www.monashfodmap.com/blog/spinach-feta-and-pinenut-omelette/)
-* [Wontons (dumplings)](https://www.monashfodmap.com/blog/broccoli-salad-yoghurt-maple-dressing/)
-* [Wontons (dumplings)](https://www.monashfodmap.com/blog/fruit-salad-pavlovas/)
-* [Wontons (dumplings)](https://www.monashfodmap.com/blog/spiced-molasses-cookies/)
+* [spinach-feta-and-pinenut-omelette](https://www.monashfodmap.com/blog/spinach-feta-and-pinenut-omelette/)
+* [broccoli-salad-yoghurt-maple-dressing](https://www.monashfodmap.com/blog/broccoli-salad-yoghurt-maple-dressing/)
+* [fruit-salad-pavlovas](https://www.monashfodmap.com/blog/fruit-salad-pavlovas/)
+* [spiced-molasses-cookies](https://www.monashfodmap.com/blog/spiced-molasses-cookies/)
 * [Wontons (dumplings)](https://www.monashfodmap.com/blog/wontons-dumplings/)
 * [Zesty Moroccan chicken and roast vegetable salad with quinoa](https://www.monashfodmap.com/blog/zesty-moroccan-chicken-and-roast/)
 * [Zucchini and rice slice](https://www.monashfodmap.com/blog/low-fodmap-zucchini-and-rice-slice_16/)
