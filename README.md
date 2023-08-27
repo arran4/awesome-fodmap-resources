@@ -1,5 +1,7 @@
 # awesome-fodmap-resources
 
+Like all [Awesome Lists](https://github.com/sindresorhus/awesome) this is intended to be a filtered (eventually) list of content relating to FODMAP which any one can contribute to like a wiki. A guide can be found here: https://github.com/component-driven/awesome-list/blob/master/Contributing.md Please use, share, and if you can contribute.
+
 This is just a list at the moment, I will work on the 'awesome' component of it (ie set restrictions and filters) when there are more resources here.
 
 See [Rules](rules.md) for rules for each category.
