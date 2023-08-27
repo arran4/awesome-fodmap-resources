@@ -14,3 +14,6 @@
 # Communities
 * Communities must either be large, or have sustained activity over a long period of time
 
+# Youtube
+* Rules will adapt over time, current strong preference for older content and content relating to academic material
+
