@@ -6,13 +6,21 @@ This is just a list at the moment, I will work on the 'awesome' component of it 
 
 See [Rules](rules.md) for rules for each category.
 
+## University backed sites:
+
+* [Monash University Low FODMAP Diet](https://www.monashfodmap.com/)
+
 ## Communities
 
-* [The Low FODMAP Support Community](https://discord.gg/KexuQeXR)
+* [The Low FODMAP Support Community](https://discord.gg/KexuQeXR) - Discord - Chat group
+* [FODMAPS, IBS and related topics Subreddit](https://www.reddit.com/r/FODMAPS/) - Reddit - "Share stories, questions and advice regarding all things FODMAP, IBS, digestive distress related to diet."
 
 ## Apps
 
-* [Monash University Low FODMAP App](http://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/) [Android](https://play.google.com/store/apps/details?id=com.monashuniversity.fodmap) [Amazon](https://www.amazon.com/Monash-Uni-Low-FODMAP-Diet/dp/B07NQV376L) [Apple](https://itunes.apple.com/au/app/monash-university-low-fodmap-diet/id586149216?mt=8)
+* [Monash University Low FODMAP App](http://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/) - The definitive guide for all "is this low fodmap" related queries - [Android](https://play.google.com/store/apps/details?id=com.monashuniversity.fodmap) [Amazon](https://www.amazon.com/Monash-Uni-Low-FODMAP-Diet/dp/B07NQV376L) [Apple](https://itunes.apple.com/au/app/monash-university-low-fodmap-diet/id586149216?mt=8)
+* [SiboSafe](https://www.sibosafe.com/) - App to scan product labels to determine low fodmap status - [Android](https://play.google.com/store/apps/details?id=com.app.sibosafe) [Apple](https://play.google.com/store/apps/details?id=com.app.sibosafe)
+* [Spoonful](https://www.spoonfulapp.com/) - Generic "special diet" shopping aid app - [Android](https://play.google.com/store/apps/details?id=com.spoonful.eats&hl=en_US&gl=US) [Apple](https://apps.apple.com/us/app/spoonful-food-scanner/id1481914232)
+* [Fodmap Friendly](https://fodmapfriendly.com/) - Fodmap Food Certifications - [Android](https://play.google.com/store/apps/details?id=com.foodmap&hl=en) [Apple](https://itunes.apple.com/au/app/fodmap-friendly/id1020195379?mt=8)
 
 ## Youtubes
 
@@ -29,6 +37,7 @@ Will split off into own MD at some stage.
 ## Country Specific Resources
 
 * [Australia](countries/australia.md)
+* [USA](countries/usa.md)
 
 ## Research
 Notable research here, others here: [General Research](research.md)
@@ -40,3 +49,26 @@ Sites (but not blogs) to find recipes go here. Individuals (including from blogs
 ## Blogs
 
 All blogs found here: [Blogs](blogs.md)
+
+## Specialists, Dietitians and more
+
+Country specific see [Country Specific Resources](# Country Specific Resources)
+
+## Products - World wide
+
+Country specific see [Country Specific Resources](# Country Specific Resources)
+
+### Emzynes and digestive aids
+
+* [FODZYME](https://www.fodzyme.com/) - Product to help "break down fructan, lactose and GOS"
+* [Enzymedica](https://enzymedica.com/) - "Enzyme & Digestive Health Supplements" (Some products are related to low fodmap)
+
+### Books
+* [Calmbelly Kitchen](https://www.calmbellykitchen.com/) - Blog, Newsletter, cookbook and an ebook.
+* [Monash University Low FODMAP: The Cookbook](https://www.monashfodmap.com/the-cookbook/) - "The first cookbook from the team who developed the Low FODMAP diet."
+
+## Newsletters
+
+* [Fodmap Everyday](https://www.fodmapeveryday.com/)
+
+
