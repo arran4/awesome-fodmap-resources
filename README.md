@@ -28,7 +28,7 @@ Will split off into own MD at some stage.
 
 ## Country Specific Resources
 
-* [Australia](country-australia.md)
+* [Australia](countries/australia.md)
 
 ## Research
 Notable research here, others here: [General Research](research.md)
