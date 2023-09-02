@@ -48,7 +48,7 @@ Sites (but not blogs) to find recipes go here. Individuals (including from blogs
 
 ## Blogs
 
-All blogs found here: [Blogs](blogs.md)
+All blogs found here: [Blogs](blogs.md) and in the [Country Specific Resources](# Country Specific Resources)
 
 ## Specialists, Dietitians and more
 
