@@ -48,15 +48,15 @@ Sites (but not blogs) to find recipes go here. Individuals (including from blogs
 
 ## Blogs
 
-All blogs found here: [Blogs](blogs.md) and in the [Country Specific Resources](#Country Specific Resources)
+All blogs found here: [Blogs](blogs.md) and in the [Country Specific Resources](#Country%20Specific%20Resources)
 
 ## Specialists, Dietitians and more
 
-Country specific see [Country Specific Resources](# Country Specific Resources)
+Country specific see [Country Specific Resources](#Country%20Specific%20Resources)
 
 ## Products - World wide
 
-Country specific see [Country Specific Resources](# Country Specific Resources)
+Country specific see [Country Specific Resources](#Country%20Specific%20Resources)
 
 ### Emzynes and digestive aids
 
