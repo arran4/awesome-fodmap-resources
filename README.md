@@ -34,6 +34,9 @@ Will split off into own MD at some stage.
 * Central Clinical School, Monash University's [Professor Peter Gibson - Low FODMAP diet: the road from ideas to implementation](https://www.youtube.com/watch?v=UAovcNnb3XA)
 * Diet vs Disease - FODMAP Dietitians Joe & Taylor's [The Low FODMAP Diet and Timing of Symptoms](https://www.youtube.com/watch?v=YIzjySTt7zA)
 
+### 2024
+* [Sugar Alcohols Ruined My Health: Learn from My Mistakes](https://youtu.be/K5v61YtDYo4?si=PbpRKaTVtKpIqF4W)
+
 ## Country Specific Resources
 
 * [Australia](countries/australia.md)
