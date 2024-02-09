@@ -22,7 +22,12 @@ See [Rules](rules.md) for rules for each category.
 * [Spoonful](https://www.spoonfulapp.com/) - Generic "special diet" shopping aid app - [Android](https://play.google.com/store/apps/details?id=com.spoonful.eats&hl=en_US&gl=US) [Apple](https://apps.apple.com/us/app/spoonful-food-scanner/id1481914232)
 * [Fodmap Friendly](https://fodmapfriendly.com/) - Fodmap Food Certifications - [Android](https://play.google.com/store/apps/details?id=com.foodmap&hl=en) [Apple](https://itunes.apple.com/au/app/fodmap-friendly/id1020195379?mt=8)
 
-## Youtubes
+## Influencers
+
+### Instagram
+* [Erin Judge](https://www.instagram.com/erinjudge.rd) - Dietitian
+
+## Individual Youtube videos
 
 Will split off into own MD at some stage.
 
