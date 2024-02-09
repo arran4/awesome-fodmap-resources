@@ -59,6 +59,8 @@ Notable research here, others here: [General Research](research.md)
 
 Sites (but not blogs) to find recipes go here. Individuals (including from blogs) go here: [Recipes](recipes.md)
 
+This by far is the largest section here so far. Please check it out! 100s of recipie links.
+
 ## Blogs
 
 All blogs found here: [Blogs](blogs.md) and in the [Country Specific Resources](#Country%20Specific%20Resources)
