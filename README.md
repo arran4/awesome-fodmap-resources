@@ -13,7 +13,7 @@ See [Rules](rules.md) for rules for each category.
 ## Communities
 
 * [The Low FODMAP Support Community](https://discord.gg/KexuQeXR) - Discord - Chat group
-* [FODMAPS, IBS and related topics Subreddit](https://www.reddit.com/r/FODMAPS/) - Reddit - "Share stories, questions and advice regarding all things FODMAP, IBS, digestive distress related to diet."
+* [FODMAPS, IBS and related topics Subreddit](https://www.reddit.com/r/FODMAPS/) - Reddit - "Share stories, questions and advice regarding all things FODMAP, IBS, digestive distress related to diet." Don't forget their [Wiki](https://www.reddit.com/r/FODMAPS/wiki/index/) with a large colleciton of links too.
 
 ## Apps
 
