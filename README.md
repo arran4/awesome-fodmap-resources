@@ -27,6 +27,11 @@ See [Rules](rules.md) for rules for each category.
 ### Instagram
 * [Erin Judge](https://www.instagram.com/erinjudge.rd) - Dietitian
 
+## Social Media
+
+### Instagram
+* [Monash Low FODMAP](https://www.instagram.com/monashfodmap/)
+
 ## Individual Youtube videos
 
 Will split off into own MD at some stage.
