@@ -58,6 +58,8 @@ Sites (but not blogs) to find recipes go here. Individuals (including from blogs
 
 All blogs found here: [Blogs](blogs.md) and in the [Country Specific Resources](#Country%20Specific%20Resources)
 
+It's worth looking around the blogs as you can find Dietitians and other significant people that way too.
+
 ## Specialists, Dietitians and more
 
 Country specific see [Country Specific Resources](#Country%20Specific%20Resources)
