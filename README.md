@@ -92,3 +92,7 @@ Country specific see [Country Specific Resources](#Country%20Specific%20Resource
 
 * [Ruminococcus Gnavus](https://theconversation.com/gut-microbiome-meet-ruminococcus-gnavus-the-bacteria-with-a-sweet-tooth-213196)
 
+
+## Intrigue
+
+* [17th Centry Cooking - What did they eat?](https://www.youtube.com/watch?v=PR23doQO63k)
