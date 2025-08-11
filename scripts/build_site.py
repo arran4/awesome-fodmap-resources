@@ -36,3 +36,6 @@ for md_path in SOURCE_DIR.rglob("*.md"):
     out_file = OUTPUT_DIR / rel_path.with_suffix(".html")
     out_file.parent.mkdir(parents=True, exist_ok=True)
     out_file.write_text(full_html, encoding="utf-8")
+    if rel_path == Path("index.md"):
+        # Also publish index.html at repository root for GitHub Pages
+        Path("index.html").write_text(full_html, encoding="utf-8")
