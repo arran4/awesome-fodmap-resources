@@ -546,7 +546,7 @@ Please note not all fodmap is similar and some things might not be okay for all 
 * [Chipotle Chiles in Adobo Sauce – Make Your Own!](https://www.fodmapeveryday.com/recipes/chipotle-chiles-adobo-sauce/)
 * [Chipotle Mayonnaise](https://www.fodmapeveryday.com/recipes/chipotle-mayonnaise/)
 * [Chive & Parmesan Scones](https://www.fodmapformula.com/low-fodmap-chive-parmesan-scones/)
-* [Choc, Chia & Rice Puff Slice](https://www.monashfodmap.com/recipe/choc-chia-rice-puff-slice/)
+* [Choc, Chia & Rice Puff Slice](https://web.archive.org/web/20200806002907/https://www.monashfodmap.com/recipe/choc-chia-rice-puff-slice/)
 * [Chocolate and Peanut Dessert Squares (bars): Happiness2; Gluten-free](https://www.rachelpaulsfood.com/low-fodmap-dessert-squares-happiness2/)
 * [chocolate and vanilla gluten free donuts](https://www.asaucykitchen.com/baked-gluten-free-donuts/)
 * [Chocolate Avocado Waffles](https://blog.katescarlata.com/2017/10/23/chocolate-avocado-waffles/)
