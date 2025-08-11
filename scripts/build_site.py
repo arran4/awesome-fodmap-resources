@@ -10,6 +10,7 @@ branch of the GitHub repository.
 import os
 from pathlib import Path
 import markdown
+import re
 
 REPO_URL = os.environ.get("REPO_URL", "").rstrip("/")
 SOURCE_DIR = Path(".")
@@ -19,7 +20,13 @@ for md_path in SOURCE_DIR.rglob("*.md"):
     if ".git" in md_path.parts:
         continue
     rel_path = md_path.relative_to(SOURCE_DIR)
-    html_body = markdown.markdown(md_path.read_text(encoding="utf-8"))
+    md_text = md_path.read_text(encoding="utf-8")
+    html_body = markdown.markdown(md_text)
+    html_body = re.sub(
+        r'href="([^":]+)\.md(#[^"]*)?"',
+        r'href="\1.html\2"',
+        html_body,
+    )
     edit_url = f"{REPO_URL}/blob/main/{rel_path.as_posix()}" if REPO_URL else ""
     full_html = f"""<!doctype html>
 <html lang=\"en\">
