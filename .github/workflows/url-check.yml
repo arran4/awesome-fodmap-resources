@@ -1,0 +1,20 @@
+name: URL Checks
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  url-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check URLs
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --no-progress --verbose .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
