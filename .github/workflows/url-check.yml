@@ -15,6 +15,6 @@ jobs:
       - name: Check URLs
         uses: lycheeverse/lychee-action@v2.0.2
         with:
-          args: --no-progress --verbose .
+          args: --no-progress --verbose --config .lychee.toml .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
