@@ -4,5 +4,5 @@
 * [Epicured](https://www.epicured.com/) - Epicured specializes in Low FODMAP made-to-order cuisine
 
 ## Specialists, Dietitians and more
-* [Kate Scarlata MPH](https://www.katescarlata.com/) - Boston-based registered dietitian
+* [Kate Scarlata MPH](https://web.archive.org/web/https://www.katescarlata.com/) - Boston-based registered dietitian
 * [Alyssa Lavy Nutrition & Wellness LLC](https://www.alyssalavy.com/) - A team of registered dietitians repairing gut health and food relationships
