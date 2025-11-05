@@ -2,7 +2,7 @@
 
 Welcome to the web version of the **Awesome FODMAP Resources** project. This page mirrors the repository's README and adds a few extra notes and navigation aids for visitors.
 
-- Visit the project on [GitHub](https://github.com/jackton1/awesome-fodmap-resources) to contribute or report issues.
+- Visit the project on [GitHub](https://web.archive.org/web/https://github.com/jackton1/awesome-fodmap-resources) to contribute or report issues.
 - Review the [Rules](rules.md) for how entries are curated.
 - Explore topic specific pages like [Blogs](blogs.md), [Recipes](recipes.md), [Research](research.md), and [Country specific resources](countries).
 
