@@ -52,6 +52,8 @@ Welcome to the web version of the **Awesome FODMAP Resources** project. This pag
 
 * [Australia](countries/australia.md)
 * [Canada](countries/canada.md)
+* [Netherlands](countries/netherlands.md)
+* [New Zealand](countries/new_zealand.md)
 * [UK](countries/uk.md)
 * [USA](countries/usa.md)
 
