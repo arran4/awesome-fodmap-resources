@@ -14,3 +14,13 @@
 ## Blogs of Specialist
 
 Please look / place them in the [Country Specific resource](countries/index.md) section.
+
+* [Everyday Nutrition](https://www.everydaynutrition.com.au/blog)
+* [IBS Nutrition](http://www.ibsnutrition.com/)
+* [The Food Treatment Clinic](https://thefoodtreatmentclinic.com/)
+* [R & M Dietetic](https://rmdietetic.com/about/)
+* [Lauren Renlund](http://www.laurenrenlund.com/)
+* [IBS-Free At Last!](https://ibsfree.net/)
+* [Karlijn's Kitchen](https://www.karlijnskitchen.com/en/)
+* [Fodmap Foodies](https://www.fodmapfoodies.nl/)
+* [A Little Bit Yummy](https://alittlebityummy.com/)
