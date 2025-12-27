@@ -23,6 +23,7 @@ Welcome to the web version of the **Awesome FODMAP Resources** project. This pag
 * [SiboSafe](https://www.sibosafe.com/) - App to scan product labels to determine low fodmap status - [Android](https://play.google.com/store/apps/details?id=com.app.sibosafe) [Apple](https://play.google.com/store/apps/details?id=com.app.sibosafe)
 * [Spoonful](https://www.spoonfulapp.com/) - Generic "special diet" shopping aid app - [Android](https://play.google.com/store/apps/details?id=com.spoonful.eats&hl=en_US&gl=US) [Apple](https://apps.apple.com/us/app/spoonful-food-scanner/id1481914232)
 * [Fodmap Friendly](https://fodmapfriendly.com/) - Fodmap Food Certifications - [Android](https://play.google.com/store/apps/details?id=com.foodmap&hl=en) [Apple](https://itunes.apple.com/au/app/fodmap-friendly/id1020195379?mt=8)
+* [Low FODMAP diet A to Z](https://apps.apple.com/us/app/low-fodmap-diet-a-to-z/id1356683228) - [Apple](https://apps.apple.com/us/app/low-fodmap-diet-a-to-z/id1356683228)
 
 ## Influencers
 
@@ -50,6 +51,8 @@ Welcome to the web version of the **Awesome FODMAP Resources** project. This pag
 ## Country Specific Resources
 
 * [Australia](countries/australia.md)
+* [Canada](countries/canada.md)
+* [UK](countries/uk.md)
 * [USA](countries/usa.md)
 
 ## Research
