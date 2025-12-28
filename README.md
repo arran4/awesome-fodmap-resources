@@ -17,7 +17,7 @@ See [Rules](rules.md) for rules for each category.
 
 ## Apps
 
-* [Monash University Low FODMAP App](http://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/) - The definitive guide for all "is this low fodmap" related queries - [Android](https://play.google.com/store/apps/details?id=com.monashuniversity.fodmap) [Amazon](https://www.amazon.com/Monash-Uni-Low-FODMAP-Diet/dp/B07NQV376L) [Apple](https://itunes.apple.com/au/app/monash-university-low-fodmap-diet/id586149216?mt=8)
+* [Monash University Low FODMAP App](http://www.monashfodmap.com/ibs-central/i-have-ibs/get-the-app/) - The definitive guide for all "is this low fodmap" related queries - [Android](https://play.google.com/store/apps/details?id=com.monashuniversity.fodmap) [Apple](https://itunes.apple.com/au/app/monash-university-low-fodmap-diet/id586149216?mt=8)
 * [SiboSafe](https://www.sibosafe.com/) - App to scan product labels to determine low fodmap status - [Android](https://play.google.com/store/apps/details?id=com.app.sibosafe) [Apple](https://play.google.com/store/apps/details?id=com.app.sibosafe)
 * [Spoonful](https://www.spoonfulapp.com/) - Generic "special diet" shopping aid app - [Android](https://play.google.com/store/apps/details?id=com.spoonful.eats&hl=en_US&gl=US) [Apple](https://apps.apple.com/us/app/spoonful-food-scanner/id1481914232)
 * [Fodmap Friendly](https://fodmapfriendly.com/) - Fodmap Food Certifications - [Android](https://play.google.com/store/apps/details?id=com.foodmap&hl=en) [Apple](https://itunes.apple.com/au/app/fodmap-friendly/id1020195379?mt=8)
