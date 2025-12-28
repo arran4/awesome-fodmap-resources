@@ -3,6 +3,9 @@
 ## Specific locations
 * [Melbourne](australia/melbourne.md)
 
+## Specialists, Dietitians and more
+* [Everyday Nutrition](https://www.everydaynutrition.com.au/) - Joanna Baker (Melbourne)
+
 ## Food prep and delivery service
 * [We Feed you](https://www.wefeedyou.com.au/) - Multiple diets: "Ready meals, delivered."
 
