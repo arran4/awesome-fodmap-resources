@@ -48,6 +48,9 @@ Welcome to the web version of the **Awesome FODMAP Resources** project. This pag
 ### 2024
 * [Sugar Alcohols Ruined My Health: Learn from My Mistakes](https://youtu.be/K5v61YtDYo4?si=PbpRKaTVtKpIqF4W)
 
+### 2025
+* Monash FODMAP's [FODMAP 20 Years On](https://www.youtube.com/watch?v=hgAtAnyaaQA)
+
 ## Country Specific Resources
 
 * [Australia](countries/australia.md)
