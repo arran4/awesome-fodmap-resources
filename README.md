@@ -88,6 +88,17 @@ Country specific see [Country Specific Resources](#Country%20Specific%20Resource
 
 * [Fodmap Everyday](https://www.fodmapeveryday.com/)
 
+## Podcasts
+
+* [Simplifying the low-FODMAP diet to help manage IBS](https://shows.acast.com/michigan-medicine-news/episodes/simplifying-the-low-fodmap-diet-to-help-manage-ibs) (Michigan Medicine News, 2024)
+* [Tips For Cooking On A Low FODMAP Diet](https://podcasts.apple.com/us/podcast/tips-for-cooking-on-a-low-fodmap-diet/id1545993954?i=1000668304742) (The Gastro Girl Podcast, 2024)
+* [Bowel Sounds Ep. 26: Bruno Chumpitazi & Kirsten Jones - Using the Low-FODMAP Diet for Children with IBS](https://naspghan.org/bowel-sounds/bowel-sounds-the-pediatric-gi-podcast-26-bruno-chumpitazi-kirsten-jones-using-the-low-fodmap-diet-for-children-with-ibs-nutrition-pearls-podcast-collaboration/) (NASPGHAN)
+* [Following the Low-FODMAP Diet](https://my.clevelandclinic.org/podcasts/butts-and-guts/following-the-low-fodmap-diet) (Cleveland Clinic)
+
+## Articles
+
+* [What Is a Low FODMAP Diet?](https://www.yalemedicine.org/news/low-fodmap-diet) - Yale Medicine, 2024
+
 ## Articles on potential causes
 
 * [Ruminococcus Gnavus](https://theconversation.com/gut-microbiome-meet-ruminococcus-gnavus-the-bacteria-with-a-sweet-tooth-213196)
