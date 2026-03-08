@@ -8,6 +8,11 @@
 * [Gluten sensitivity: It's not actually about gluten](https://www.unimelb.edu.au/newsroom/news/2025/october/gluten-sensitivity-its-not-actually-about-gluten)
 * [Low-FODMAP Diet for Irritable Bowel Syndrome: Insights from Microbiome](https://www.mdpi.com/2072-6643/17/3/544)
 * [Perceptions and Practices of Primary Care Providers in Europe and the US in the Diagnosis and Treatment of Irritable Bowel Syndrome: A Multinational Survey](https://pubmed.ncbi.nlm.nih.gov/39568286/)
+* [An umbrella review of meta-analyses on the low-FODMAP diet in IBS](https://pubmed.ncbi.nlm.nih.gov/41550863/)
+* [An Overview of Essential Nutritional Strategies and Products in the Treatment of Endometriosis](https://pubmed.ncbi.nlm.nih.gov/41515192/)
+* [Irritable Bowel Syndrome in Inflammatory Bowel Disease: An Evidence-Based Practical Review](https://pubmed.ncbi.nlm.nih.gov/41517366/)
+* [A study on the utility of inflammatory biomarkers in primary care irritable bowel syndrome: a sub analysis of the DOMINO randomized trial](https://pubmed.ncbi.nlm.nih.gov/41436948/)
+* [Ancient grain flour consumption as a novel therapeutic approach for irritable bowel syndrome](https://pubmed.ncbi.nlm.nih.gov/41417098/)
 
 ### 2024
 * [Functional Gastrointestinal Disorders and Childhood Obesity: The Role of Diet and Its Impact on Microbiota](https://pubmed.ncbi.nlm.nih.gov/39796556/)
