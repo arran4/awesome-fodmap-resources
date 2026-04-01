@@ -1,11 +1,31 @@
+# -----------------------------------------------------------------------------
+# .lycheeignore - Ignored URLs for the Lychee Link Checker
+# -----------------------------------------------------------------------------
+# URLs added here consistently fail link checking due to bot protection,
+# rate limiting, or other persistent access issues, despite being valid links.
+#
+# Format: Add comments with reasons and dates when adding new entries.
+# -----------------------------------------------------------------------------
+
+# --- Social Media & Forums (Aggressive bot protection/rate limiting) ---
+# Ignored to prevent frequent false positives
 https://www.reddit.com/r/FODMAPS/
-https://www.instagram.com/monashfodmap/
 https://www.reddit.com/r/FODMAPS/wiki/index/
-https://www.spoonfulapp.com/
+https://www.instagram.com/monashfodmap/
 https://www.instagram.com/erinjudge.rd
+
+# --- Archives & Specific Articles ---
+# Frequent timeouts or access issues
 https://web.archive.org/
-https://www.epicured.com/
 https://www.unimelb.edu.au/newsroom/news/2025/october/gluten-sensitivity-its-not-actually-about-gluten
+
+# --- Apps & Services ---
+# Bot protection or 403 Forbidden errors for automated checkers
+https://www.spoonfulapp.com/
+https://www.epicured.com/
+
+# --- Major FODMAP Domains (Globally ignored due to aggressive bot protection/rate limiting) ---
+# Adding /* ignores all links under these domains
 https://www.rachelpaulsfood.com/*
 https://www.mdpi.com/*
 https://thefodmapfactor.com/*
@@ -17,8 +37,9 @@ https://www.fodmapeveryday.com/*
 https://www.monashfodmap.com/*
 https://fodmapfriendly.com/
 
-# Continually returning 402 Payment Required
+# --- Specific Error Cases ---
+# Continually returning 402 Payment Required (Added Apr 2026)
 https://fodshopper.com.au/*
 
-# Continually returning Unknown status code
+# Continually returning Unknown status code (Added Apr 2026)
 https://www.fodmapformula.com/*
