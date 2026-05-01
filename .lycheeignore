@@ -43,3 +43,10 @@ https://fodshopper.com.au/*
 
 # Continually returning Unknown status code (Added Apr 2026)
 https://www.fodmapformula.com/*
+
+# Returning 403 Forbidden
+https://shecanteatwhat.com/*
+
+# Timed out
+https://rehabproffsen.se/*
+http://rehabproffsen.se/*
