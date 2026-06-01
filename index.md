@@ -96,6 +96,10 @@ Country specific see [Country Specific Resources](#Country%20Specific%20Resource
 
 * [Fodmap Everyday](https://www.fodmapeveryday.com/)
 
+## Podcasts
+
+* [Low FODMAP Diet and IBS Podcast](https://podcasts.apple.com/us/podcast/low-fodmap-diet-and-ibs-podcast/id1130189253) - Podcast offering discussions, interviews, and guidance on the Low FODMAP diet.
+
 ## Articles on potential causes
 
 * [Ruminococcus Gnavus](https://theconversation.com/gut-microbiome-meet-ruminococcus-gnavus-the-bacteria-with-a-sweet-tooth-213196)
