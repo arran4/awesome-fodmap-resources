@@ -14,6 +14,7 @@
 * [The FODMAP Formula Recipes](https://www.fodmapformula.com/recipes/)
 * [Fodmap Everyday Recipes](https://www.fodmapeveryday.com/recipes/)
 * [She can't eat what? Recipies](https://shecanteatwhat.com/low-fodmap-recipes/)
+* [Iron Gut](https://theirongut.com/guides/) - High-protein recipes for people who lift
 
 ## Individual articles:
 * [Low-FODMAP Spice Blends and Marinade Recipes](https://www.calmbellykitchen.com/blog/low-fodmap-spice-blends-marinade-recipes)
